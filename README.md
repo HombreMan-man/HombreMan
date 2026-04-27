@@ -1,7 +1,7 @@
 <div align="center">
 ### Anibal | Software Engineering | Data Science & Automation
 
-<img src="https://static.wikia.nocookie.net/zelda/images/9/92/Link_y_Epona_en_el_trailer_de_BotW_-_1.jpg" width="100%" alt="Banner Link y Epona">
+<img src="the-legend-of-zelda-breath-of-the-wild-the-legend-of-zelda-hyrule-video-games-wallpaper-preview.jpg" width="100%" alt="Banner Hyrule">
 ## Tecnologías y Herramientas
 
 ### 🚀 Lenguajes y ML
