@@ -10,7 +10,7 @@ Tecnologías y Herramientas
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3076BE?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Open for Work](https://img.shields.io/badge/Open%20to%20Work-RE-brightgreen?style=for-the-badge)
 ### 📊 Análisis de Datos y BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
