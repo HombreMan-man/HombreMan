@@ -20,7 +20,7 @@
 ![Microsoft Office 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 ## Estadísticas de GitHub
 ![Stats de HombreMan-man](https://github-readme-stats.vercel.app/api?username=HombreMan-man&show_icons=true&theme=tokyonight&count_private=true)
