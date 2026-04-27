@@ -1,5 +1,5 @@
 <div align="center">
-### Anibal | Software Engineering | Data Science & Automation
+ Anibal | Software Engineering | Data Science & Automation
 
 <img src="the-legend-of-zelda-breath-of-the-wild-the-legend-of-zelda-hyrule-video-games-wallpaper-preview.jpg" width="100%" alt="Banner Hyrule">
 ## Tecnologías y Herramientas
@@ -24,6 +24,5 @@
 
 ## Estadísticas de GitHub
 ![Stats de HombreMan-man](https://github-readme-stats.vercel.app/api?username=HombreMan-man&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HombreMan-man&layout=compact&theme=tokyonight)
 
 </div>
