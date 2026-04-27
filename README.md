@@ -1,8 +1,7 @@
 <div align="center">
-#### Ingeniero en Informática | Data Science & Automation
+### Anibal | Software Engineering | Data Science & Automation
 
-![Banner]([https://images8.alphacoders.com/132/1324151.jpeg](https://static.wikia.nocookie.net/zelda/images/9/92/Link_y_Epona_en_el_trailer_de_BotW_-_1.jpg/revision/latest/scale-to-width-down/1000?cb=20150422222450&path-prefix=es)) 
----
+![Banner](https://images8.alphacoders.com/132/1324151.jpeg)
 
 ## Tecnologías y Herramientas
 
