@@ -1,8 +1,8 @@
 <div align="center">
  Anibal | Software Engineering | Data Science & Automation
-![Open for Work](https://img.shields.io/badge/Open%20to%20Work-RE-brightgreen?style=for-the-badge)
 
 <img src="the-legend-of-zelda-breath-of-the-wild-the-legend-of-zelda-hyrule-video-games-wallpaper-preview.jpg" width="100%" alt="Banner Hyrule">
+![Open for Work](https://img.shields.io/badge/Open%20to%20Work-RE-brightgreen?style=for-the-badge)
 Tecnologías y Herramientas
 
 ### 🚀 Lenguajes y ML
